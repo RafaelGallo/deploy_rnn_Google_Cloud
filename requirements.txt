@@ -1,0 +1,7 @@
+streamlit
+google-cloud-bigquery
+google-cloud-storage
+tensorflow
+pandas
+numpy
+matplotlib
